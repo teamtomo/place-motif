@@ -1,0 +1,22 @@
+{
+  "template": "https://github.com/tlambert03/pyrepo-cookiecutter",
+  "commit": "1458aa53a8bf86bb7365c91c1b3c74546cf42fa8",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "TeamTomo",
+      "email": "ttomo@googlegroups.com",
+      "github_username": "teamtomo",
+      "project_name": "place-motif",
+      "project_slug": "place_motif",
+      "project_short_description": "place structural motifs in space or on grids in Python",
+      "pypi_username": "teamtomo",
+      "version_control": "setuptools-scm",
+      "_copy_without_render": [
+        ".github/workflows/*"
+      ],
+      "_template": "https://github.com/tlambert03/pyrepo-cookiecutter"
+    }
+  },
+  "directory": null
+}
